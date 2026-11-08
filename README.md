@@ -1,0 +1,2 @@
+# pandas-oneliners
+unmaintained
